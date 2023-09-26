@@ -249,10 +249,10 @@
         2
       ],
       "POSITIVE": true,
-      "MIN_YIELD": 100.0,
-      "MAX_YIELD": 500.0,
-      "BASE_VALUE": 0.0,
-      "MAX_VALUE": 100000.0,
+      "MIN_YIELD": 100000000,
+      "MAX_YIELD": 100000000,
+      "BASE_VALUE": 100000000,
+      "MAX_VALUE": 100000000,
       "COLOR": "#dcdcdc",
       "TOOLTIP_HINT": "Increases durability on your pickaxe"
     },

@@ -6,8 +6,8 @@
         "LEVELS": [
           {
             "MIN_LEVEL": 0,
-            "MIN": 0.05,
-            "MAX": 0.1,
+            "MIN": 0.01,
+            "MAX": 0.01,
             "OPERATOR": "set",
             "ROLL_CHANCE": 1.0,
             "SCALE_PER_LEVEL": 0.0,
@@ -15,8 +15,8 @@
           },
           {
             "MIN_LEVEL": 50,
-            "MIN": 0.1,
-            "MAX": 0.15,
+            "MIN": 0.01,
+            "MAX": 0.015,
             "OPERATOR": "set",
             "ROLL_CHANCE": 1.0,
             "SCALE_PER_LEVEL": 0.0,
@@ -24,8 +24,8 @@
           },
           {
             "MIN_LEVEL": 85,
-            "MIN": 0.15,
-            "MAX": 0.2,
+            "MIN": 0.015,
+            "MAX": 0.02,
             "OPERATOR": "set",
             "ROLL_CHANCE": 1.0,
             "SCALE_PER_LEVEL": 0.0,
@@ -38,8 +38,8 @@
         "LEVELS": [
           {
             "MIN_LEVEL": 0,
-            "MIN": 1.2,
-            "MAX": 1.2,
+            "MIN": 1.02,
+            "MAX": 1.02,
             "OPERATOR": "set",
             "ROLL_CHANCE": 1.0,
             "SCALE_PER_LEVEL": 0.0,
@@ -47,8 +47,8 @@
           },
           {
             "MIN_LEVEL": 50,
-            "MIN": 1.3,
-            "MAX": 1.3,
+            "MIN": 1.03,
+            "MAX": 1.03,
             "OPERATOR": "set",
             "ROLL_CHANCE": 1.0,
             "SCALE_PER_LEVEL": 0.0,
@@ -56,8 +56,8 @@
           },
           {
             "MIN_LEVEL": 85,
-            "MIN": 1.4,
-            "MAX": 1.4,
+            "MIN": 1.04,
+            "MAX": 1.04,
             "OPERATOR": "set",
             "ROLL_CHANCE": 1.0,
             "SCALE_PER_LEVEL": 0.0,
@@ -68,7 +68,7 @@
       {
         "NAME": "minecraft:generic.attack_damage",
         "MIN": 1.0,
-        "MAX": 2.0,
+        "MAX": 1.30,
         "OPERATOR": "set",
         "ROLL_CHANCE": 1.0,
         "SCALE_PER_LEVEL": 0.1,
@@ -80,7 +80,7 @@
           {
             "MIN_LEVEL": 0,
             "MIN": 16.0,
-            "MAX": 24.0,
+            "MAX": 16.0,
             "OPERATOR": "set",
             "ROLL_CHANCE": 1.0,
             "SCALE_PER_LEVEL": 0.067,
@@ -88,8 +88,8 @@
           },
           {
             "MIN_LEVEL": 50,
-            "MIN": 23.0,
-            "MAX": 29.0,
+            "MIN": 17.0,
+            "MAX": 19.0,
             "OPERATOR": "set",
             "ROLL_CHANCE": 1.0,
             "SCALE_PER_LEVEL": 0.067,
@@ -97,8 +97,8 @@
           },
           {
             "MIN_LEVEL": 65,
-            "MIN": 28.0,
-            "MAX": 36.0,
+            "MIN": 19.0,
+            "MAX": 23.0,
             "OPERATOR": "set",
             "ROLL_CHANCE": 1.0,
             "SCALE_PER_LEVEL": 0.067,
@@ -146,8 +146,8 @@
       },
       {
         "NAME": "minecraft:generic.max_health",
-        "MIN": 50.0,
-        "MAX": 80.0,
+        "MIN": 20.0,
+        "MAX": 20.0,
         "OPERATOR": "set",
         "ROLL_CHANCE": 1.0,
         "SCALE_PER_LEVEL": 0.067,

@@ -1,0 +1,6 @@
+v 0.001
+
+changed exp needed for leveling, leveling is now more than 10X faster over level 80
+removed the chance to destory a jewel when cutting it
+increased durability for some items
+changed recipe for stone, only cobble required (easier progression)

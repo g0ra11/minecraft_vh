@@ -10,8 +10,8 @@
         "max": 10
       },
       "durability": {
-        "min": 0,
-        "max": 10
+        "min": 100000,
+        "max": 100000
       },
       "rarity": "common"
     }
@@ -27,8 +27,8 @@
         "max": 10
       },
       "durability": {
-        "min": 0,
-        "max": 10
+        "min": 100000,
+        "max": 100000
       },
       "rarity": "common"
     }
@@ -44,8 +44,8 @@
         "max": 10
       },
       "durability": {
-        "min": 0,
-        "max": 10
+        "min": 100000,
+        "max": 100000
       },
       "rarity": "common"
     }
